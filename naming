@@ -1,4 +1,4 @@
-the assets follow the following naming convention
+Images follow the following convention:
 
 [identifier]-[name]-[aspect-ratio]-[additional-tags].[extension]
 
@@ -11,6 +11,6 @@ additional tags:
 note: tags are indicated by either a dash ( - ) or a period ( . )
 
     -nobg --> indicates that the asset does not have a background
-    .old  --> indicates that the asset is no longer used and is a old variation
+    -v{iteration}  --> indicates the asset version. only the newest versions are used.
 
 note: vectors do not follow this naming convention.

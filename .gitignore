@@ -1,1 +1,5 @@
 .DS_Store
+
+// Private use to navigate the assets
+index.html
+style.css
